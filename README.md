@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Hiepbq2003/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Hiepbq2003/LeetCode/tree/master/0189-rotate-array) |
 | [0704-binary-search](https://github.com/Hiepbq2003/LeetCode/tree/master/0704-binary-search) |
+| [1929-concatenation-of-array](https://github.com/Hiepbq2003/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Trie
 |  |
 | ------- |
@@ -140,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/Hiepbq2003/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0584-find-customer-referee](https://github.com/Hiepbq2003/LeetCode/tree/master/0584-find-customer-referee) |
 | [0620-not-boring-movies](https://github.com/Hiepbq2003/LeetCode/tree/master/0620-not-boring-movies) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/Hiepbq2003/LeetCode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
