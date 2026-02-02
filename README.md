@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Hiepbq2003/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Hiepbq2003/LeetCode/tree/master/0189-rotate-array) |
 | [0704-binary-search](https://github.com/Hiepbq2003/LeetCode/tree/master/0704-binary-search) |
+| [1470-shuffle-the-array](https://github.com/Hiepbq2003/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Hiepbq2003/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Trie
 |  |
