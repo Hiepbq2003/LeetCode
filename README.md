@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Hiepbq2003/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Hiepbq2003/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Hiepbq2003/LeetCode/tree/master/0383-ransom-note) |
+| [0645-set-mismatch](https://github.com/Hiepbq2003/LeetCode/tree/master/0645-set-mismatch) |
 ## Math
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Hiepbq2003/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Hiepbq2003/LeetCode/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/Hiepbq2003/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/Hiepbq2003/LeetCode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Hiepbq2003/LeetCode/tree/master/0704-binary-search) |
 | [1470-shuffle-the-array](https://github.com/Hiepbq2003/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Hiepbq2003/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Hiepbq2003/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Hiepbq2003/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Hiepbq2003/LeetCode/tree/master/0242-valid-anagram) |
+| [0645-set-mismatch](https://github.com/Hiepbq2003/LeetCode/tree/master/0645-set-mismatch) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -147,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Hiepbq2003/LeetCode/tree/master/1929-concatenation-of-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/Hiepbq2003/LeetCode/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
