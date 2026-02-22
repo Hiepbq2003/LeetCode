@@ -8,9 +8,7 @@ class Solution {
             reverse = reverse * 10 + digit;
             x /= 10; 
         }
-        if(reverse != begin) 
-        return false;
-        return true;
+        return begin == reverse;
     }
  
 }
