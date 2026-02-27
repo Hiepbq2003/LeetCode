@@ -5,7 +5,7 @@ BEGIN
   RETURN (
     SELECT DISTINCT salary
     FROM Employee
-    ORDER BY salary DESC
+    ORDER BY salary desc
     LIMIT 1 OFFSET off
   );
 END
