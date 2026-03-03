@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Hiepbq2003/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Hiepbq2003/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Hiepbq2003/LeetCode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Hiepbq2003/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Hiepbq2003/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Hiepbq2003/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Hiepbq2003/LeetCode/tree/master/0383-ransom-note) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Hiepbq2003/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Hiepbq2003/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Hiepbq2003/LeetCode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Hiepbq2003/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Hiepbq2003/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Hiepbq2003/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/Hiepbq2003/LeetCode/tree/master/0645-set-mismatch) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hiepbq2003/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/Hiepbq2003/LeetCode/tree/master/0219-contains-duplicate-ii) |
 ## Binary Search
 |  |
 | ------- |
