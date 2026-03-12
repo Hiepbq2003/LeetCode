@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Hiepbq2003/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Hiepbq2003/LeetCode/tree/master/0392-is-subsequence) |
 | [0459-repeated-substring-pattern](https://github.com/Hiepbq2003/LeetCode/tree/master/0459-repeated-substring-pattern) |
+| [0541-reverse-string-ii](https://github.com/Hiepbq2003/LeetCode/tree/master/0541-reverse-string-ii) |
 ## Array
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Hiepbq2003/LeetCode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Hiepbq2003/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Hiepbq2003/LeetCode/tree/master/0392-is-subsequence) |
+| [0541-reverse-string-ii](https://github.com/Hiepbq2003/LeetCode/tree/master/0541-reverse-string-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
