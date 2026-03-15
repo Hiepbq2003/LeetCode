@@ -7,7 +7,7 @@ class Solution {
             sb.append(first);
 
              if(sb.toString().equals(goal))
-        return true;
+             return true;
         }
        
         return false;
