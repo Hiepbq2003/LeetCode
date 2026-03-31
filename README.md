@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Hiepbq2003/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Hiepbq2003/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Hiepbq2003/LeetCode/tree/master/0202-happy-number) |
+| [0415-add-strings](https://github.com/Hiepbq2003/LeetCode/tree/master/0415-add-strings) |
 ## String
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Hiepbq2003/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Hiepbq2003/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Hiepbq2003/LeetCode/tree/master/0392-is-subsequence) |
+| [0415-add-strings](https://github.com/Hiepbq2003/LeetCode/tree/master/0415-add-strings) |
 | [0459-repeated-substring-pattern](https://github.com/Hiepbq2003/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0541-reverse-string-ii](https://github.com/Hiepbq2003/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0796-rotate-string](https://github.com/Hiepbq2003/LeetCode/tree/master/0796-rotate-string) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/Hiepbq2003/LeetCode/tree/master/0415-add-strings) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Hiepbq2003/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/Hiepbq2003/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Bit Manipulation
