@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Hiepbq2003/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Hiepbq2003/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Hiepbq2003/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Hiepbq2003/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Hiepbq2003/LeetCode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Hiepbq2003/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Hiepbq2003/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Hiepbq2003/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Hiepbq2003/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Hiepbq2003/LeetCode/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/Hiepbq2003/LeetCode/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/Hiepbq2003/LeetCode/tree/master/0415-add-strings) |
 ## String
 |  |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Hiepbq2003/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Hiepbq2003/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Hiepbq2003/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/Hiepbq2003/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Hiepbq2003/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Hiepbq2003/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Hiepbq2003/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Hiepbq2003/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Hiepbq2003/LeetCode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/Hiepbq2003/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Hiepbq2003/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Hiepbq2003/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/Hiepbq2003/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
@@ -166,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Hiepbq2003/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Hiepbq2003/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Hiepbq2003/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Hiepbq2003/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Hiepbq2003/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Hiepbq2003/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0645-set-mismatch](https://github.com/Hiepbq2003/LeetCode/tree/master/0645-set-mismatch) |
@@ -208,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Hiepbq2003/LeetCode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Hiepbq2003/LeetCode/tree/master/0645-set-mismatch) |
 ## Counting Sort
 |  |
