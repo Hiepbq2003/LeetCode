@@ -1,0 +1,32 @@
+name: Auto Update LeetCode Count
+
+on:
+  push:
+    branches:
+      - main  # Chạy khi bạn push hoặc LeetHub commit vào nhánh main
+    paths:
+      - 'README.md' # Chỉ chạy khi file README.md có thay đổi
+
+jobs:
+  update-count:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Run count script
+        run: python update_readme.py
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          # Chỉ commit nếu có sự thay đổi về con số thống kê
+          git diff-index --quiet HEAD || git commit -m "chore: update leetcode solved count [skip ci]"
+          git push
