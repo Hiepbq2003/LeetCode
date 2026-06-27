@@ -3,9 +3,9 @@ name: Auto Update LeetCode Count
 on:
   push:
     branches:
-      - main  # Chạy khi bạn push hoặc LeetHub commit vào nhánh main
+      - main
     paths:
-      - 'README.md' # Chỉ chạy khi file README.md có thay đổi
+      - 'README.md'
 
 jobs:
   update-count:
@@ -13,6 +13,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Lấy toàn bộ lịch sử git để tránh lỗi khi rebase
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -27,6 +29,13 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          # Chỉ commit nếu có sự thay đổi về con số thống kê
-          git diff-index --quiet HEAD || git commit -m "chore: update leetcode solved count [skip ci]"
-          git push
+          
+          # Chỉ xử lý nếu có sự thay đổi con số
+          if ! git diff-index --quiet HEAD; then
+            git commit -m "chore: update leetcode solved count [skip ci]"
+            # Kéo code mới nhất về và chồng commit của Actions lên trên cùng để tránh xung đột
+            git pull --rebase origin main
+            git push origin main
+          else
+            echo "No changes detected in README.md"
+          fi
