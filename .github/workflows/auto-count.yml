@@ -14,28 +14,35 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # Lấy toàn bộ lịch sử git để tránh lỗi khi rebase
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.x'
 
-      - name: Run count script
-        run: python update_readme.py
-
-      - name: Commit and Push changes
+      - name: Configure Git
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Pull latest changes first
+        run: |
+          # Đồng bộ hóa tuyệt đối với những gì LeetHub vừa push lên mạng
+          git pull origin main --rebase
+
+      - name: Run count script
+        run: |
+          # Chạy script đếm số ngay trên nền code mới nhất
+          python update_readme.py
+
+      - name: Commit and Push changes
+        run: |
           git add README.md
-          
-          # Chỉ xử lý nếu có sự thay đổi con số
           if ! git diff-index --quiet HEAD; then
             git commit -m "chore: update leetcode solved count [skip ci]"
-            # Kéo code mới nhất về và chồng commit của Actions lên trên cùng để tránh xung đột
-            git pull --rebase origin main
-            git push origin main
+            # Sử dụng --force-with-lease để đẩy lên một cách an toàn mà không bị chặn bởi xung đột tạm thời
+            git push origin main --force-with-lease
           else
             echo "No changes detected in README.md"
           fi
