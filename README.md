@@ -1,6 +1,6 @@
 # LeetCode
 
-### 📊 Thống kê: **72** bài đã hoàn thành
+### 📊 Thống kê: **73** bài đã hoàn thành
 
 
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
